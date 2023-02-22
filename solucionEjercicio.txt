@@ -1,0 +1,22 @@
+
+Cliente:
+	private:
+		nombre
+		direccion
+		telefono
+		horarioDeRecoleccion
+	public:
+		accederWeb()
+		ingresarInformacion()
+
+
+Etqueta:
+	private:
+		nombreDestinatario
+		Telefono
+		direccion
+		peso
+		dimensiones
+	public:
+		pegarEnElPaquete()
+		esperarRecoleccion()
